@@ -3,10 +3,6 @@
 <h3 align="center">
 Front-End Developer in Training
 
-  <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,git,github,vscode" />
-</p>
-
 </h3>
 
 ---
