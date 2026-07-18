@@ -1,12 +1,16 @@
-# 👋 Hello! I'm Matheus Rosendo
+<h1 align="center">Hi 👋, I'm Matheus Rosendo</h1>
 
-## 💻 Front-End Developer in Training
-
-I'm currently studying Front-End Development and building modern, responsive websites using HTML, CSS, JavaScript and Java.
+<h3 align="center">
+Front-End Developer in Training
+</h3>
 
 ---
 
-## 🚀 Technologies
+## 👨‍💻 About Me
+
+💻 Passionate about technology and web development.
+
+📚 Currently studying:
 
 - HTML5
 - CSS3
@@ -15,37 +19,50 @@ I'm currently studying Front-End Development and building modern, responsive web
 - Git
 - GitHub
 
----
+🎯 Goal:
 
-## 📚 Currently Learning
-
-- Responsive Design
-- JavaScript ES6+
-- Java
-- Git & GitHub
+Become a professional Front-End Developer creating modern, responsive and high-quality websites.
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Technologies
 
-🚀 Instagram Clone
+<p align="left">
 
-🎬 Netflix Clone
+<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
 
-❤️ Romantic Website
+</p>
 
-🧮 Java Calculator
+---
 
-🛒 Offers Landing Page
+## 📚 Current Projects
+
+- 📷 Instagram Clone
+- 🎬 Netflix Clone
+- ❤️ Romantic Website
+- 🧮 Java Calculator
+- 💰 Offers Landing Page
+
+---
+
+## 🌱 Currently Learning
+
+✔ Responsive Design
+
+✔ JavaScript
+
+✔ Java
+
+✔ Git & GitHub
 
 ---
 
 ## 📫 Contact
 
-📧matheusrosendo77@gmail.com
+📧 Email: MatheusRosendo77@gmail.com
 
 🌎 Brazil
 
 ---
 
-⭐ Always learning and building new projects.
+⭐ Thanks for visiting my profile!
