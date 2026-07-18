@@ -67,7 +67,7 @@ Become a professional Front-End Developer creating modern, responsive and high-q
 <p align="center">
 
 <a href="SEU_LINKEDIN">
-<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/matheus-rosendo-509b4a271/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/matheus-rosendo-509b4a271/">
 </a>
 
 </p>
