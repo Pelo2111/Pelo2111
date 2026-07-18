@@ -66,3 +66,11 @@ Become a professional Front-End Developer creating modern, responsive and high-q
 ---
 
 ⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Pelo2111&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pelo2111&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pelo2111&layout=compact&theme=tokyonight)
