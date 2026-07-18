@@ -1,3 +1,7 @@
+<p align="center">
+<img src="(https://capsule-render.vercel.app/api?type=blur&height=300&color=0F2027&text=Matheus%20Rosendo&fontColor=2C5364&desc=Front-End%20Developer&strokeWidth=-1250&fontAlignY=36&fontSize=70&animation=fadeIn&stroke=0F2027&descSize=0&descAlignY=55&descAlign=50&textBg=false&section=footer)">
+</p>
+
 <h1 align="center">Hi 👋, I'm Matheus Rosendo</h1>
 
 <h3 align="center">
