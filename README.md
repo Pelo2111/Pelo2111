@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hello! I'm Matheus Rosendo
 
-<!--
-**Pelo2111/Pelo2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Front-End Developer in Training
 
-Here are some ideas to get you started:
+I'm currently studying Front-End Development and building modern, responsive websites using HTML, CSS, JavaScript and Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- Git
+- GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Responsive Design
+- JavaScript ES6+
+- Java
+- Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+🚀 Instagram Clone
+
+🎬 Netflix Clone
+
+❤️ Romantic Website
+
+🧮 Java Calculator
+
+🛒 Offers Landing Page
+
+---
+
+## 📫 Contact
+
+📧matheusrosendo77@gmail.com
+
+🌎 Brazil
+
+---
+
+⭐ Always learning and building new projects.
